@@ -9,4 +9,4 @@ joblib==1.5.1
 matplotlib==3.6.3
 seaborn==0.13.2
 plotly==6.1.2
-tensorflow==2.19.0
+tensorflow-cpu==2.15.0  # or tensorflow==2.15.0
