@@ -1,6 +1,7 @@
 # ⚡ WattSight – EV Charging Station Management Dashboard
 
 **WattSight** is an advanced, AI-powered web dashboard for real-time monitoring, predictive analytics, and intelligent insights into electric vehicle charging stations.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://wattsight-production.up.railway.app/)
 
 ---
 
